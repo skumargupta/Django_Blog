@@ -81,8 +81,7 @@ DATABASES = {
         'PORT' : '6603',
         'NAME' : 'book_manager',
         #'NAME': BASE_DIR / 'db.sqlite3',
-        'USER' : 'root',
-        'PASSWORD' : 'root',
+        
     }
 }
 
